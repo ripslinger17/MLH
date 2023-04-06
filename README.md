@@ -11,8 +11,8 @@ In this section I have createed and uploaded projects related to the given task 
 You can check out my work here: [Global Hack Week:API Week (April)](https://github.com/ripslinger17/MLH/tree/main/GHW_April)
 
 ### Hardware Hackfest
-In this section I have participated in a Hardware Hackathon organised by Major League Hacking themself, I created my a game using **Arduino UNO** and a **16 x 2 LCD**. It was my first time writing a code with a hardware.
-You can check out my work here: [Hardware Hackfest](https://github.com/ripslinger17/MLH/tree/main/Hardware_Hack/Arduino%20Game)
+In this section I have participated in a Hardware Hackathon organised by Major League Hacking.
+You can check out my work here: [Hardware Hackfest](https://github.com/ripslinger17/MLH/tree/main/Hardware_Hack)
 
 ## Miscellenous
 Something will go here in future🙂
