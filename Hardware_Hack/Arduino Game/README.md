@@ -33,14 +33,14 @@ C++ was used to build this project.
 - First node of Pushbutton *to* Both GNDs
 - Second node of Pushbutton *to* 2
 
-<img src = "https://github.com/ripslinger17/MLH/blob/main/Hardware_Hack/Arduino%20Game/images/Circuit.png" alt= "connections" width = "50%" height ="50%">
+<img src = "https://github.com/ripslinger17/MLH/blob/main/Hardware_Hack/Arduino%20Game/images/Circuit.png" alt= "connections" width = "50%" height ="50%" title = "Circuit">
 
 ### Controls
 - Start the circuit by running the simulator.
 - Push the button to start the game.
 - Press **"Space Bar"** to jump.
 
-![Working Circuit](https://github.com/ripslinger17/MLH/blob/main/Hardware_Hack/Arduino%20Game/images/Working%20state.png)
+<img src = "https://github.com/ripslinger17/MLH/blob/main/Hardware_Hack/Arduino%20Game/images/Working%20state.png" alt= "connections" width = "50%" height ="50%" title = "Working Circuit">
 
 ### References
 [References](https://www.hackster.io/muhamd-magdy/arduino-game-by-lcd-9a3bc2)
