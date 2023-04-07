@@ -32,7 +32,7 @@ if (navigator.geolocation) {
 		loc.textContent = data.name + "," + data.sys.country;
 		let icon1 = data.weather[0].icon;
 		icon.innerHTML =
-			`<img src="sun.png" style= 'height:10rem'/>`;
+			`<img src="cloudy.png" style= 'height:10rem'/>`;
 		});
 	});
 }
