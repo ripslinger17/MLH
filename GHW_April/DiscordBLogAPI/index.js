@@ -9,7 +9,7 @@ const dblog = [
   {
     name : 'Discord-Blogs',
     address: 'https://discord.com/blog',
-    base: 'https://discord.com/blog'
+    base: 'https://discord.com/'
   }
 ];
 
