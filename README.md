@@ -16,5 +16,4 @@ You can check out my work here: [Hardware Hackfest](https://github.com/ripslinge
 
 ## Miscellenous
 I am open for suggestions and improvements on any of this projects🙂.
-btw, *All of the projects are open-sourced*. 
-Anyone on this Blue-Green planet 🌏 can use them.
+Btw, *All of the projects are open-sourced*. Anyone on this Blue-Green planet 🌏 can use them.
