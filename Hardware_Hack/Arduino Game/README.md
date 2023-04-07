@@ -33,7 +33,7 @@ C++ was used to build this project.
 - First node of Pushbutton *to* Both GNDs
 - Second node of Pushbutton *to* 2
 
-![Connection](https://github.com/ripslinger17/MLH/blob/main/Hardware_Hack/Arduino%20Game/images/Circuit.png)
+<img src = "https://github.com/ripslinger17/MLH/blob/main/Hardware_Hack/Arduino%20Game/images/Circuit.png" alt= "connections" width = "50%" height ="50%">
 
 ### Controls
 - Start the circuit by running the simulator.
