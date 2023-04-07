@@ -14,11 +14,11 @@ if (navigator.geolocation) {
 	lon = position.coords.longitude;
 	lat = position.coords.latitude;
 
-	const api = "108c618fdc65b2d552e24cb577a6530b";
+	const api = "TOKEN";
 
 	const base =
 `http://api.openweathermap.org/data/2.5/weather?lat=${lat}&` +
-`lon=${lon}&appid=108c618fdc65b2d552e24cb577a6530b`;
+`lon=${lon}&appid=TOKEN`;
 
 	fetch(base)
 		.then((response) => {
