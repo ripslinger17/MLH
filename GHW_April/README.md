@@ -6,6 +6,7 @@ This repository currently conatain only one project which is:
 - [Weather App](https://github.com/ripslinger17/MLH/tree/main/GHW_April/weatherapp)
 - [Discord Blog Api](https://github.com/ripslinger17/MLH/tree/main/GHW_April/DiscordBLogAPI)
 - [Cat Image Generator](https://github.com/ripslinger17/MLH/tree/main/GHW_April/CatImageGenerator)
+- [Chat Bot using GPT]()
 
 ## Miscellenous
 I am open for suggestions and improvements on any of this projects🙂.
