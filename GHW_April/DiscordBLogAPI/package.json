@@ -1,0 +1,21 @@
+{
+  "name": "discrod-news-api",
+  "version": "1.0.0",
+  "description": "This api will fetch every news available on the https://discord.com/blog and fetch everything.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "ripslinger17",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.0.6",
+    "axios": "^1.3.5",
+    "cheerio": "^1.0.0-rc.12",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "node-fetch": "^3.2.6",
+    "nodemon": "^2.0.22"
+  }
+}
