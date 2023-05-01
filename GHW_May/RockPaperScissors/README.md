@@ -1,15 +1,13 @@
-# weatherapp
-This project was made for Global Hack Week: APIs organised by Major League Hacking.
+# RockPaperScissors
+This project was made for Global Hack Week: Games organised by Major League Hacking.
 
 ## Wanna See?
-Here 👉 [Click Here](https://youtu.be/7dyzdFf4b38)
+Here 👉 [Click Here](https://youtu.be/D5iEdx3PnPg)
 
 ## Sections
 ### What this game is all about?
-This is a simple Weather App which shows current weather based on your location.
+This is the simple yet most popular and fun to play game in the world **ROCK PAPER SCISSORS**.
 
-### API
-I used [Open Weather Map](https://openweathermap.org/) API to build this web-application.
 
 ### Programming Language
 - HTMl5

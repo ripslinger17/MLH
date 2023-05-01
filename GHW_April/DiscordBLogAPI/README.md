@@ -6,6 +6,9 @@ I named this API as "discrod-news-api".
 This API is not listed anywhere and is not for commercial use. It was just a fun project.
 ```
 
+## Wanna See?
+Here 👉 [Click Here](https://youtu.be/JS_FSTO8f40)
+
 ## Sections
 ### What this game is all about?
 The discrod-news-api API collects all the blogs which are posted on [Discords Blog Page](https://discord.com/blog) and allow user of the discrod-news-api API to according to their need.

@@ -29,7 +29,7 @@ async function getMessage(){
         const data = await response.json();
         console.log(data);
         outPutElement.textContent = data.choices[0].message.content;
-        if (data.choices[0].message.content && imputElement.value){
+        if (data.choices[0].message.content && inputElement.value){
             const pElement = document.createElement('p');
             pElement.textContent = inputElement.value;
             pElement.addEventListener('click', () => changeInput(pElement.textContent));

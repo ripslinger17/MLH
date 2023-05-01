@@ -4,6 +4,9 @@ This project was digitally made for Hardware Hackfest hackathon organised by Maj
 ## Link
 Try the game yourself [Arduino Game](https://wokwi.com/projects/361174690369830913) here.
 
+## Wanna See?
+Here 👉 [Click Here](https://youtu.be/c--ZOP1lMCQ)
+
 ## Sections
 ### What this game is all about?
 This is a simple game of a player dodging the obstacles by jumping over them. Inspired by Super Mario style gameplay.
