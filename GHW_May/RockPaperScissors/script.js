@@ -5,6 +5,7 @@ const possibleChoices = document.querySelectorAll('button')
 let userChoice
 let computerChoice
 let result
+
 alert("Start a Game by clicking Ok")
 
 possibleChoices.forEach(possibleChoice => possibleChoice.addEventListener('click', (e) => {

@@ -2,10 +2,10 @@
 This Repository contains all the projects made for Hackathons💪 or Global Hack Week⚡️ organised by Major League Hacking.
 
 ## Sections
-The Repository contains many sections (currently only two) which are:
-- Global Hack Week: API Week (April)🔗
-- Global Hack Week: API Games (May)👾
-- Hardware Hackfest🛠️
+The Repository contains many sections (currently three) which are:
+- Global Hack Week: API Week (April) 🔗
+- Global Hack Week: API Games (May) 👾
+- Hardware Hackfest 🪛
 
 ### Global Hack Week: API Week 🔗 (April)
 In this section I have createed and uploaded projects related to the given task by Major League Hacking. In this projects I have created applications using different type of *open source* APIs.
